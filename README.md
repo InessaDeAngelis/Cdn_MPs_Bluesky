@@ -1,8 +1,8 @@
 # What are Canadian Members of Parliament doing on Bluesky?
 
-Code and data for our research note describing how many federal Canadian MPs use Bluesky and the types of content they share. Citation:
+Code and data for our research note describing how many federal Canadian MPs use Bluesky and the types of posts they share. Citation:
 
->De Angelis, I., and Alexander, R. (2025). What are Canadian Members of Parliament doing on Bluesky? *Canadian Journal of Political Science*, 1–22. https://doi.org/10.1017/S0008423925100619
+>De Angelis, I., and Alexander, R. (2026). What are Canadian Members of Parliament doing on Bluesky? *Canadian Journal of Political Science*, *59*(2), 255–276. https://doi.org/10.1017/S0008423925100619
 
 ## Abstract
 Which Canadian Members of Parliament (MPs) are on Bluesky and what types of content do
